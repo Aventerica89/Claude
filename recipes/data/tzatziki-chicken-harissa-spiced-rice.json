@@ -1,0 +1,97 @@
+{
+  "id": "tzatziki-chicken-harissa-spiced-rice",
+  "name": "Tzatziki Chicken & Harissa Spiced Rice",
+  "servings": 8,
+  "nutrition": {
+    "calories": 470,
+    "protein": 49,
+    "carbs": 45,
+    "fat": 11
+  },
+  "tags": [
+    "chicken",
+    "greek",
+    "rice",
+    "slow-cooker",
+    "high-protein",
+    "meal-prep"
+  ],
+  "ingredients": [
+    {
+      "section": "Meat",
+      "items": [
+        "1340g (48oz) boneless, skinless chicken breast"
+      ]
+    },
+    {
+      "section": "Marinade",
+      "items": [
+        "4-5 garlic cloves",
+        "1 Tbsp dried oregano",
+        "1 tsp salt",
+        "20g (1 Tbsp) honey",
+        "15g (1 Tbsp) olive oil",
+        "1 tsp onion powder",
+        "1 tsp black pepper"
+      ]
+    },
+    {
+      "section": "Corn Starch Slurry (if needed)",
+      "items": [
+        "45g (3 Tbsp) corn starch",
+        "45g (3 Tbsp) water"
+      ]
+    },
+    {
+      "section": "Tzatziki Sauce",
+      "items": [
+        "400g (1¾ cups) 0% Greek yogurt",
+        "150g (⅔ cup) light sour cream",
+        "1 cucumber",
+        "1 tsp salt",
+        "1 lemon",
+        "15g (1 Tbsp) olive oil",
+        "1 tsp chopped dill",
+        "2 tsp chopped chives",
+        "1 tsp garlic powder",
+        "Dash of black pepper"
+      ]
+    },
+    {
+      "section": "Harissa Spiced Rice",
+      "items": [
+        "420g (1¾ cups) jasmine rice",
+        "15g (1 Tbsp) olive oil",
+        "2-3 cloves garlic",
+        "60g (4 Tbsp) harissa",
+        "45g (3 Tbsp) tomato paste",
+        "Oregano and salt, to taste",
+        "910g (3¾ cups) chicken broth"
+      ]
+    }
+  ],
+  "instructions": [
+    {
+      "step": 1,
+      "description": "Grate the garlic cloves and add to the slow cooker along with the chicken breast, olive oil, dried oregano, salt, black pepper, honey, and onion powder. Mix to coat evenly, set the slow cooker to high and cook on high for 3-4 hours or low for 3-4 hours until the chicken is tender and fully cooked."
+    },
+    {
+      "step": 2,
+      "description": "While the chicken is cooking, prepare the tzatziki sauce. Peel and de-seed the cucumber, squeeze out water using a cloth, and combine with 0% Greek yogurt, light sour cream, olive oil, salt, chopped chives, lemon juice, dill, black pepper, and garlic powder in a bowl. Mix well until smooth and creamy."
+    },
+    {
+      "step": 3,
+      "description": "While the chicken is cooking and about 30 minutes along with the harissa and tomato paste. Heat oil in a pan, fry garlic/harissa/tomato paste for 5 min. Add jasmine rice and toss to mix. Pour chicken bone broth, salt, and oregano into the pot. Bring to boil, then cover and reduce heat to low for 20-25 minutes then fluff."
+    },
+    {
+      "step": 4,
+      "description": "Once the chicken is done, shred it directly in the slow cooker using two forks. Create a cornstarch slurry by mixing equal parts cornstarch and water (3 Tbsp each). Add the slurry to the slow cooker and stir well. Mix the prepared tzatziki sauce with the chicken, stir until coated. Divide rice and chicken into 8 servings."
+    }
+  ],
+  "prepTime": "20 minutes",
+  "cookTime": "3-4 hours",
+  "totalTime": "3 hours 20 minutes - 4 hours 20 minutes",
+  "difficulty": "Easy",
+  "cuisine": "Greek-inspired",
+  "mealType": "Main Dish"
+}

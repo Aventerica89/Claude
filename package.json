@@ -1,0 +1,18 @@
+{
+  "name": "recipe-library",
+  "version": "1.0.0",
+  "description": "A recipe library management system",
+  "main": "recipes/lib/recipeLibrary.js",
+  "scripts": {
+    "example": "node recipes/example.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "recipe",
+    "library",
+    "food",
+    "cooking"
+  ],
+  "author": "",
+  "license": "MIT"
+}
