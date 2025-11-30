@@ -5,6 +5,7 @@
   "main": "recipes/lib/recipeLibrary.js",
   "scripts": {
     "example": "node recipes/example.js",
+    "build": "echo \"Recipe library ready - no build step needed\"",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
